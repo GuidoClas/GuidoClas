@@ -34,4 +34,4 @@ Hallo, I'm Guido, a fullstack developer for Santander Argentina. I'm 23 years ol
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guidoclas@gmail.com)
 
-🌐 guidoclas.com
+[🌐 guidoclas.com](https://guidoclas.com)
