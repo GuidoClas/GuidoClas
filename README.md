@@ -1,7 +1,7 @@
 
 
 ## 🚀 About Me
-Hallo, I'm Guido, a fullstack developer for Santander Argentina. I'm 24 years old, and currently based in Buenos Aires, Argentina.
+Hello, I'm Guido, a fullstack developer for Santander Argentina. I'm 24 years old, and currently based in Buenos Aires, Argentina.
 
 
 ## 🛠 Professional Tech Stack
